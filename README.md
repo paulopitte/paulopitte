@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi there 👋 meu nome é Paulo Pitte!
 
+* Sou [MCSA - Web Applications](https://docs.microsoft.com/pt-br/learn/certifications/mcsa-web-applications-certification/)
+* Atualmente atuo como FullStack Developer .net
 <!--
 **paulopitte/paulopitte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
