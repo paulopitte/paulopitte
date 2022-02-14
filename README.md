@@ -2,7 +2,7 @@
 
 ### Olá 👋 meu nome é Paulo Pitte!
 
-* 😄 Sou [MCSA - Web Applications](https://docs.microsoft.com/pt-br/learn/certifications/mcsa-web-applications-certification/)
+* 😄 Atualmente trabalho como Full-Stack Senior Software Enginner | Software Architect 
 
-* 🔭 Atualmente Trabalho como System Architect | FullStack Developer .net
+* 🔭 Possuo algumas Certificações como | MCSA | MCPD | MCTS | MCP - Web Applications [MCSA - Web Applications](https://docs.microsoft.com/pt-br/learn/certifications/mcsa-web-applications-certification/)
 * 💬 "A arte de programar consiste em organizar e dominar a complexidade"
