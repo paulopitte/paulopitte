@@ -15,8 +15,8 @@ de software seguindo princípios do paradigma da programação orientada a objet
 pensando em design de código, performance, escalabilidade horizontal, testabilidade e segurança,
 essas são prioridade e compromisso em meu trabalho. 
 
-* 💬 Habilidades técnicas e metodologias (Hard Skills)
-Tenho experiência e conhecimento com Implementações seguindo os princípios e conceitos 
+* 💬 Algumas habilidades técnicas e metodologias (Hard Skills)
+• Tenho experiência e conhecimento com Implementações seguindo os princípios e conceitos 
 atualmente exigidos no mercado como Padrões de Arquitetura dentre eles: Arquitetura 
 distribuídas(Microservices, SaaS) assim também como aplicações em camadas e monolito.
 • Procuro sempre implementar as melhores práticas, conceitos, metodologias e paradigmas como:
