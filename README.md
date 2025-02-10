@@ -6,7 +6,7 @@
 
 * 🔭 Possuo algumas Certificações como | MCSA | MCPD | MCTS | MCP - Web Applications [MCSA - Web Applications](https://docs.microsoft.com/pt-br/learn/certifications/mcsa-web-applications-certification/)
 
-* 💬 Sou especialista com experiência de mais de 15 anos em arquitetura/desenvolvimento de sistemas 
+* 💬 Sou especialista com experiência de mais de 17 anos em arquitetura/desenvolvimento de sistemas 
 corporativos, onde adquiri sólida experiência em vários segmentos de negócio, tais como: Sistema de 
 automação bancário, Gestão Tributária, Áreas Administrativas e E-Commerce com ênfase na
 Integração Seller / MarketPlace.
