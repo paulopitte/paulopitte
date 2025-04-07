@@ -6,25 +6,37 @@
 
 * 🔭 Possuo algumas Certificações como | MCSA | MCPD | MCTS | MCP - Web Applications [MCSA - Web Applications](https://docs.microsoft.com/pt-br/learn/certifications/mcsa-web-applications-certification/)
 
-* 💬 Sou especialista com experiência de mais de 17 anos em arquitetura/desenvolvimento de sistemas 
-corporativos, onde adquiri sólida experiência em vários segmentos de negócio, tais como: Sistema de 
-automação bancário, Gestão Tributária, Áreas Administrativas e E-Commerce com ênfase na
-Integração Seller / MarketPlace.
-Com ampla experiencia através da plataforma Microsoft .NET tenho boas práticas no desenvolvimento 
-de software seguindo princípios do paradigma da programação orientada a objetos, atuo sempre 
-pensando em design de código, performance, escalabilidade horizontal, testabilidade e segurança,
-essas são prioridade e compromisso em meu trabalho. 
+* 💬 Sou especialista com mais de 17 anos de experiência em desenvolvimento e arquitetura de sistemas corporativos, tendo atuado em diversos segmentos de negócio como automação bancária, gestão tributária, áreas administrativas e e-commerce, com ênfase em integração de serviços.
 
-* 💬 Algumas habilidades técnicas e metodologias (Hard Skills)
-• Tenho experiência e conhecimento com Implementações seguindo os princípios e conceitos 
-atualmente exigidos no mercado como Padrões de Arquitetura dentre eles: Arquitetura 
-distribuídas(Microservices, SaaS) assim também como aplicações em camadas e monolito.
-• Procuro sempre implementar as melhores práticas, conceitos, metodologias e paradigmas como:
-Domain Model Partner, Table Model Partner, DDD, BDD, TDD, CQRS, SOLID Principies, DI, CleanCode, Design Patterns, Event-Sourcing, RPA(Robot Process Automation).
-• Experiencias em Integrações cloud storages, blobs, mensagerias(messageBroker), RabbitMQ, 
-Rebus, Azure Services Bus, gRPC, COM+, WCF SOAP, GatewayAPI, Docker e kubernetes. 
-• Tenho conhecimento em tecnologia voltados para a área de missão crítica com alta disponibilidade 
-(Scale-out, Cluster e Load Balance, Cache-Distributed).
+Tenho ampla vivência com a plataforma Microsoft .NET, com domínio em C# e Visual Basic, além de experiência também com as linguagens Java, TypeScript e JavaScript. Atuo tanto no back-end quanto no front-end, utilizando frameworks e tecnologias como Angular, Vue.js, ASP.NET MVC e Web Forms.
+
+Busco sempre aplicar boas práticas de desenvolvimento de software, alinhadas aos princípios da programação orientada a objetos, com foco em design de código, performance, escalabilidade horizontal, testabilidade e segurança. 
+
+Sobre minhas competências comportamentais (Soft Skills):
+• Sou autodidata e focado na busca contínua por novos aprendizados;
+• Procuro focar e dedicar para alcançar metas e resolver problemas com eficiência;
+• Tenho a iniciativa para analisar informações, abstraí-las e propor soluções eficazes em diferentes contextos;
+
+Certificações:
+• MCSA – Microsoft Certified Solutions Associate
+• Microsoft Specialist – ASP.NET MVC 5 (Exam 70-486)
+• Microsoft Specialist – Programming in HTML5, JavaScript and CSS3 (Exam 70-480)
+• MCPD – ASP.NET Developer 3.5 (Exam 70-564)
+• MCTS – .NET Framework 3.5, ASP.NET (Exam 70-562)
+• MCTS – SQL Server (Exam 70-432)
+• MCP – C# Foundation (Exam 70-536)
+
+* 💬Habilidades Técnicas e Metodologias (Hard Skills):
+Tenho experiência em implementações que seguem os principais princípios e práticas exigidos pelo mercado, como:
+
+• Padrões Arquiteturais: Orientada a Eventos (EDA), Distribuída (Microservices, SaaS), Cliente-Servidor (camadas e monolito);
+• Melhores Práticas: Domain Model Pattern, Table Model Pattern, DDD, BDD, TDD, CQRS, SOLID, Clean Code, Design Patterns, Event Sourcing, RPA (Robot Process Automation);
+• Integrações Cloud: Storages, blobs, mensageria (Message Broker), RabbitMQ, Kafka, Rebus, Azure Service Bus, gRPC, COM+, WCF SOAP, GatewayAPI;
+• Tecnologias de Missão Crítica: Alta disponibilidade (Scale-out, Cluster, Load Balance, Cache Distribuído);
+• Plataformas Cloud: Experiência com soluções em Azure (Azure Functions, App Services, Azure SQL, Cosmos DB, AKS) e AWS (Lambda, EC2, RDS, S3, EKS), com foco em arquiteturas escaláveis e seguras;
+• Conteinerização e Orquestração: Docker e Kubernetes.
+• Trabalho dentro da cultura DevOps, realizando automação, versionamento, configuração de esteiras CI/CD, pipelines, gerenciamento de pacotes (artefatos) e monitoramento, utilizando ferramentas como GitLab e Azure DevOps.
+• Tenho experiência com metodologias ágeis, especialmente Scrum, utilizando Azure Boards e Jira para gestão de projetos.
 
 
 * 💬 "A arte de programar consiste em organizar e dominar a complexidade"
