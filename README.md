@@ -4,7 +4,7 @@
 
 * 😄 Atualmente trabalho como Full-Stack Senior Software Enginner | Software Architect 
 
-* 🔭 Possuo algumas Certificações como | MCSA | MCPD | MCTS | MCP - Web Applications [MCSA - Web Applications](https://docs.microsoft.com/pt-br/learn/certifications/mcsa-web-applications-certification/)
+* 🔭 Possuo algumas Certificações como | MCSA | MCPD | MCTS(4x) | MCP - Web Applications [MCSA - Web Applications](https://docs.microsoft.com/pt-br/learn/certifications/mcsa-web-applications-certification/)
 
 💬 Sou especialista com mais de 17 anos de experiência em desenvolvimento e arquitetura de sistemas corporativos, tendo atuado em diversos segmentos de negócio como automação bancária, gestão tributária, áreas administrativas e e-commerce, com ênfase em integração de serviços.
 
